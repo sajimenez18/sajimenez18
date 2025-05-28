@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**sajimenez18/sajimenez18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, soy Stephs ¡Qué bueno tenerte por acá!
 
-Here are some ideas to get you started:
+<p>
+  <img src="[./ico.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnptZTVudnZ5aDRnMTh1ZGk0d3VqYTl0MHBnYjZhOWVhbXl5YjZpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Dqaeosmm7K5yV8FWb/giphy.gif)" align="right" width="150" alt="GIF de Stephs" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <samp>
+    <br>
+    🙋‍♂️ Aprendiz entusiasta de:
+    <ul>
+      <li>HTML & CSS</li>
+      <li>Java</li>
+      <li>SQL</li>
+      <li>BASH</li>
+      <li>... y probando suerte con Linux 🐧</li>
+    </ul>
+    
+  ☕ Probando café en lugar de código :P
+    <br><br>
+    🛠️ Siempre aprendiendo algo nuevo y viendo que hacemos
+  </samp>
+</p>
+
+---
+
+<p align="center">
+  <samp>
+    🧠 Mis herramientas actuales:<br>
+    <code>#html</code> <code>#css</code> <code>#java</code> <code>#sql</code> <code>#bash</code> <code>#linux</code>
+  </samp>
+</p>
