@@ -1,7 +1,7 @@
 
 ## Hola, soy Stephs ¡Qué bueno tenerte por acá!
 <p>
-<img src="emoji-dance.gif" align="right" width="150" alt="Emoji bailando">
+<img src="[emoji-dance.gif](https://media.tenor.com/sFzfdn_jL4oAAAAM/pode-pode-pode-pode-pode-pode-sentar-emoji.gif)" align="right" width="150" alt="Emoji bailando">
     
   ☕ Probando café en lugar de código :P
     <br><br>
