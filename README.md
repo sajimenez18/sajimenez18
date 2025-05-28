@@ -1,7 +1,7 @@
 
 ## Hola, soy Stephs ¡Qué bueno tenerte por acá!
 <p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDAsmXeu6q0Y6vSKPWRmveH-IOgghpB-ibA&s" align="right" width="150" alt="ouh">
+<img src="https://media.tenor.com/sFzfdn_jL4oAAAAM/pode-pode-pode-pode-pode-pode-sentar-emoji.gif" align="right" width="150" alt="ouh">
     
   ☕ Probando café en lugar de código :P
     <br><br>
