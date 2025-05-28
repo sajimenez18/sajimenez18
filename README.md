@@ -14,6 +14,6 @@
 <p align="center">
   <samp>
     🧠 Mis herramientas actuales:<br>
-#html, #css, #git, #Java, #SQL, #Bash, #linux
+#html, #css, #git, #Java, #SQL, #linux
   </samp>
 </p>
