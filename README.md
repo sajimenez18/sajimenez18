@@ -1,6 +1,5 @@
 
 ## Hola, soy Stephs ¡Qué bueno tenerte por acá!
-
 <p>
 <img src="emoji-dance.gif" align="right" width="150" alt="Emoji bailando">
     
